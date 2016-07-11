@@ -6,4 +6,10 @@ You've learned a lot about web development so far. I want you to take a moment t
 
 ---
 
-Your response goes here!
+1.) I've learned different HTML elements used to mark up text and reproduce in composition format. The reference for html elements can be found here: https://developer.mozilla.org/en-US/docs/Web/HTML/Element#Basic_elements
+
+2.) Adding the tags to text has been easy.
+
+3.) Knowing what tag to use has been tricky because there are sometimes sublte differences between tags and the rendered results can look similar. There is more than one way to do accomplish something, so, I don't always know what the best practice is.
+
+4.) I have referred to a lot of documentation and done a lot of reading to understand how things fit together. This gives me context and background which is helpful when tackling a project.
